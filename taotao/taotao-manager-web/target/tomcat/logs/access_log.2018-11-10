@@ -1,2 +1,0 @@
-127.0.0.1 - - [10/Nov/2018:20:47:19 +0800] "GET /rest/itemcat/all?callback=category.getDataService HTTP/1.1" 404 949 http-bio-8081-exec-1 3626
-127.0.0.1 - - [10/Nov/2018:20:53:32 +0800] "GET /rest/itemcat/all?callback=category.getDataService HTTP/1.1" 404 949 http-bio-8081-exec-3 215

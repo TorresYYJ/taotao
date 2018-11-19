@@ -1,5 +1,0 @@
-package com.taotao.order.interceptor;
-
-public class LoginInterceptor {
-
-}

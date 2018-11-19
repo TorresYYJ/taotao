@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;content-category.jsp&apos; to &apos;jsp&apos;&#x0D;&#x0A;- Original project: &apos;taotao-manager-web&apos;&#x0D;&#x0A;- Destination element: &apos;jsp&apos;&#x0D;&#x0A;- Original element: &apos;content-category.jsp&apos;" description="Copy file" element1="src/main/webapp/WEB-INF/jsp/content-category.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1539626626194" target="/taotao-manager-web/src/main/webapp/WEB-INF/jsp" units="0" version="1.0"/>
-</session>

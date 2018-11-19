@@ -1,7 +1,0 @@
-package com.taotao.order.pojo;
-
-import com.taotao.pojo.TbOrder;
-
-public class OrderInfo extends TbOrder {
-
-}

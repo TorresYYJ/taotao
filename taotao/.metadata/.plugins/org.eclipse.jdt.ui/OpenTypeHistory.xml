@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=taotao-manager-interface/src\/main\/java&lt;com.taotao.service{ItemCatService.java[ItemCatService" modifiers="513" timestamp="1537852926673"/>
+<typeInfo handle="=taotao-content-interface/src\/main\/java&lt;com.taotao.content.service{ContentCategoryService.java[ContentCategoryService" modifiers="513" timestamp="1539085361791"/>
+<typeInfo handle="=taotao-common/C:\/tools\/java\/JDK1.8.0_181\/jre\/lib\/rt.jar&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1535527877674"/>
+<typeInfo handle="=taotao-search-interface/src\/main\/java&lt;com.taotao.search.service{SearchItemService.java[SearchItemService" modifiers="513" timestamp="1539623821949"/>
+<typeInfo handle="=taotao-search-interface/src\/main\/java&lt;com.taotao.search.service{SearchService.java[SearchService" modifiers="513" timestamp="1539847454573"/>
+<typeInfo handle="=taotao-search-web/C:\/tools\/maven\/repo\/org\/springframework\/spring-webmvc\/4.2.4.RELEASE\/spring-webmvc-4.2.4.RELEASE.jar&lt;org.springframework.web.servlet(HandlerExceptionResolver.class[HandlerExceptionResolver" modifiers="1537" timestamp="1537641003959"/>
+<typeInfo handle="=taotao-manager-pojo/src\/main\/java&lt;com.taotao.pojo{TbItem.java[TbItem" modifiers="1" timestamp="1537800152883"/>
+<typeInfo handle="=taotao-content-service/C:\/tools\/maven\/repo\/org\/springframework\/spring-webmvc\/4.2.4.RELEASE\/spring-webmvc-4.2.4.RELEASE.jar&lt;org.springframework.web.servlet.view.freemarker(FreeMarkerConfigurer.class[FreeMarkerConfigurer" modifiers="33" timestamp="1537641003959"/>
+<typeInfo handle="=taotao-search-service/C:\/tools\/maven\/repo\/org\/apache\/activemq\/activemq-all\/5.11.2\/activemq-all-5.11.2.jar&lt;javax.jms(MessageListener.class[MessageListener" modifiers="1537" timestamp="1540137987498"/>
+<typeInfo handle="=taotao-sso-interface/src\/main\/java&lt;com.taotao.sso.service{UserService.java[UserService" modifiers="513" timestamp="1541178937167"/>
+</typeInfoHistroy>

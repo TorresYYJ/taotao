@@ -1,0 +1,5 @@
+package com.taotao.order.service;
+
+public interface OrderService {
+
+}

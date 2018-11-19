@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<syncparticipants>
+<participant displayName="SVN (/pagehelper, /taotao-common, /taotao-content, /taotao-item-web, /taotao-manager, /taotao-manager-web, /taotao-parent, /taotao-portal-web, /taotao-search, /taotao-search-web, /taotao-sso, /taotao-sso-web)" id="org.tigris.subversion.subclipse.participant" secondary_id="1541224325461">
+<data root="false">
+<org.eclipse.team.ui.TEAMSUBSRCIBERSETTINGS org.eclipse.team.ui.SCOPE_TYPE="ResourceScope">
+<org.eclipse.team.ui.TEAMSUBSRCIBER_REFRESHSCHEDULE org.eclipse.team.ui.CTX_REFRESHSCHEDULE_ENABLED="false" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_INTERVAL="3600" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_RUNONCE="false"/>
+<resource_scope_roots resource_scope_root_resource="/pagehelper"/>
+<resource_scope_roots resource_scope_root_resource="/taotao-common"/>
+<resource_scope_roots resource_scope_root_resource="/taotao-content"/>
+<resource_scope_roots resource_scope_root_resource="/taotao-item-web"/>
+<resource_scope_roots resource_scope_root_resource="/taotao-manager"/>
+<resource_scope_roots resource_scope_root_resource="/taotao-manager-web"/>
+<resource_scope_roots resource_scope_root_resource="/taotao-parent"/>
+<resource_scope_roots resource_scope_root_resource="/taotao-portal-web"/>
+<resource_scope_roots resource_scope_root_resource="/taotao-search"/>
+<resource_scope_roots resource_scope_root_resource="/taotao-search-web"/>
+<resource_scope_roots resource_scope_root_resource="/taotao-sso"/>
+<resource_scope_roots resource_scope_root_resource="/taotao-sso-web"/>
+</org.eclipse.team.ui.TEAMSUBSRCIBERSETTINGS>
+</data>
+</participant>
+</syncparticipants>

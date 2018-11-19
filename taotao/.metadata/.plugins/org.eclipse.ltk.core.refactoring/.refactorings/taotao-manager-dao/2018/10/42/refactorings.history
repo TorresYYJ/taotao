@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TbItemDescMapper.xml&apos; to &apos;taotao-search-service/src/main/java/com.taotao.search.mapper&apos;&#x0D;&#x0A;- Original project: &apos;taotao-manager-dao&apos;&#x0D;&#x0A;- Destination element: &apos;taotao-search-service/src/main/java/com.taotao.search.mapper&apos;&#x0D;&#x0A;- Original element: &apos;TbItemDescMapper.xml&apos;" description="Copy file" destination="=taotao-search-service/src\/main\/java&lt;com.taotao.search.mapper" element1="src/main/java/com/taotao/mapper/TbItemDescMapper.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1539591828346" units="0" version="1.0"/>
+</session>
